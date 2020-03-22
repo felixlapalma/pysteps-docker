@@ -1,3 +1,5 @@
+![Docker DEV Image CI](https://github.com/felixlapalma/pysteps-docker/workflows/Docker%20DEV%20Image%20CI/badge.svg)
+
 # pysteps-docker
 
 Repo to leave dockerfiles for pySTEPS lib
