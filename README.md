@@ -1,4 +1,5 @@
 ![Docker DEV Image CI](https://github.com/felixlapalma/pysteps-docker/workflows/Docker%20DEV%20Image%20CI/badge.svg)
+![Docker PROD Image CI](https://github.com/felixlapalma/pysteps-docker/workflows/Docker%20PROD%20Image%20CI/badge.svg)
 
 # pysteps-docker
 
