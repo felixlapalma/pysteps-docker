@@ -3,7 +3,7 @@
 
 # pysteps-docker
 
-Repo to leave dockerfiles for pySTEPS lib
+Repo to leave dockerfiles for [pySTEPS](https://github.com/pySTEPS/pysteps)
 
 ## Requirements
 
